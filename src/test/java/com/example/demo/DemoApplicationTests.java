@@ -26,7 +26,11 @@ public class DemoApplicationTests {
 		String str1 = "123";
 		System.out.println("str:" + str);
 		//字串串接
-		System.out.println(str + str1);
-				
+		System.out.println(str + str1);		
+	}
+	
+	@Test
+	public void gitTest() {
+		
 	}
 }
